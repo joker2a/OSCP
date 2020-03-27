@@ -1,5 +1,5 @@
 # OSCP
-OSCP cheatsheet by ibr2
+OSCP cheatsheet by https://github.com/ibr2
 
 
 # PWK-CheatSheet
