@@ -1,4 +1,4 @@
-# OSCP
+# Old OSCP
 OSCP cheatsheet by https://github.com/ibr2
 
 
